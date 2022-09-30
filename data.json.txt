@@ -130,5 +130,17 @@
       "difficulty":"difficult",
       "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
       "Password":"anshUl@1!",
+   },
+   {
+      "id":21,
+      "difficulty":"difficult",
+      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
+      "Password":"Amdjkdb@13#",
+   },
+   {
+      "id":22,
+      "difficulty":"difficult",
+      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
+      "Password":"Ab@13#",
    }
 ]
