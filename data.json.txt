@@ -118,5 +118,17 @@
       "difficulty":"medium",
       "chractersUsed":"numbers+characters",
       "Password":"pja@9846%123",
+   },
+   {
+      "id":19,
+      "difficulty":"difficult",
+      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
+      "Password":"Nevergiveup@1!",
+   },
+   {
+      "id":20,
+      "difficulty":"difficult",
+      "chractersUsed":"special char , num,Uppercase & Lowercase & special char",
+      "Password":"anshUl@1!",
    }
 ]
